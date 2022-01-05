@@ -1,0 +1,5 @@
+1)Import the json file to database.
+2)Task 1 is to fetch the number of employees of term1 who are failed.
+3)Task2 is to find the avg of employees of term1.
+4)Task3 is to find the employess who passed in all three terms hint:marks>=37.
+5)Task4 is to find avg of term1 ,term2,term3 and overall avg of terms.
